@@ -1,1 +1,2 @@
 ./osimage/deps/debian-x86_64-2016-08-31.cgz/hwsim_2017-09-15.cgz filter=lfs diff=lfs merge=lfs -text
+./osimage/pkg/debian-x86_64-2016-08-31.cgz/hwsim-x86_64-4a3746341_2017-10-09.cgz filter=lfs diff=lfs merge=lfs -text
